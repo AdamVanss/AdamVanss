@@ -1,6 +1,6 @@
 # Hi, I'm Adam Mazouar  
 
-**future AI/ML Engineer** | **Full-Stack Developer**  
+**AI/ML Engineer** | **Full-Stack Developer**  
 
 I build **intelligent software** and **modern web applications** with a focus on performance, scalability, and clean design.  
 
